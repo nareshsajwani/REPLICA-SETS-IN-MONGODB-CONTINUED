@@ -1,0 +1,26 @@
+1) Why do we use replica sets? Check all that apply.
+ans :: a,d,e
+
+2. Which of the following are true about replication in MongoDB?
+Ans :: b,d,
+
+3. Imagine a replica set with 5 servers. What is the minimum number of servers (assume each server has 1 vote) to form a consensus?
+Ans :: c
+
+4. Why do we give replica sets names?
+Ans :: a,b
+
+5. What does optimeDate represent?
+Ans :: b
+
+6. Which command prevents a node from becoming primary for 5 minutes?
+Ans:: b
+
+7. When a primary goes down and is brought back online, it will always resume a primary status:
+Ans :: b
+
+8. What are good reasons to read from a secondary? Check all that apply.
+Ans:: a,b,d,
+
+9. For ‘reads’ which among the following must be consistent, which read preference(s) is used?
+Ans :: c,e
